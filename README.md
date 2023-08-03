@@ -1,4 +1,4 @@
 # distancias-capitais
 aplicação com tabela de distância entre capitais brasileiras
 
-Turmas 1C
+Turmas 1c
